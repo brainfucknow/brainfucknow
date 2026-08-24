@@ -1,6 +1,4 @@
-# .github
-
-The special `.github` repository for the [@brainfucknow](https://github.com/brainfucknow) account.
+# brainfucknow
 
 This is a **vibe account** — a playground where LLMs and generative AI coding tools get tried out more freely than on a serious account. Expect experiments, slop (the good kind), and occasional brainfuck.
 
