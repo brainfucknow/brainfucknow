@@ -27,7 +27,7 @@ Every public project on this account carries a label: serious or experiment.
 | [FSharpPlus-documentation](https://github.com/brainfucknow/FSharpPlus-documentation) | serious |
 | [gpt-engineer](https://github.com/brainfucknow/gpt-engineer) | experiment |
 | [iis-deploy](https://github.com/brainfucknow/iis-deploy) | serious |
-| [Kevin-operator](https://github.com/brainfucknow/Kevin-operator) | experiment |
+| [Kevin-operator](https://github.com/brainfucknow/Kevin-operator) | serious |
 | [lovable-boilerplate](https://github.com/brainfucknow/lovable-boilerplate) | serious |
 | [program-engineer-gpt](https://github.com/brainfucknow/program-engineer-gpt) | serious |
 | [pstack](https://github.com/brainfucknow/pstack) | serious |
