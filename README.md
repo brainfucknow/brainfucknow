@@ -1,6 +1,6 @@
 # brainfucknow
 
-This account now mixes serious AI-assisted work with less serious experiments.
+This account mixes serious AI-assisted work with less serious experiments.
 
 What counts here is what turns out useful. What shipped, who uses it, and how it helps them matters more than lines of code, merged pull requests, or tokens spent. The bar comes from the [No AI Slop manifesto](https://www.slopmanifesto.com/).
 
