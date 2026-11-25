@@ -1,6 +1,6 @@
 # brainfucknow
 
-This is my vibe account. Generative AI coding tools do more of the work here than on my serious account.
+This account now mixes serious AI-assisted work with less serious experiments.
 
 What counts here is what turns out useful. What shipped, who uses it, and how it helps them matters more than lines of code, merged pull requests, or tokens spent. The bar comes from the [No AI Slop manifesto](https://www.slopmanifesto.com/).
 
@@ -17,6 +17,6 @@ What counts here is what turns out useful. What shipped, who uses it, and how it
 
 ## How work here is judged
 
-1. AI-generated code is the point. When an agent writes something that goes out, I label it and check the parts that matter.
+1. When an agent writes something that goes out, I label it and check the parts that matter.
 2. Slop is work that costs the reader more effort than it cost to produce. I don't send that.
-3. Useful experiments move to a serious account. The rest stay here.
+3. Serious projects and experiments both live here. Experiments are labeled as experiments.
