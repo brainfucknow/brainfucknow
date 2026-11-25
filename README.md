@@ -7,7 +7,6 @@ What counts here is what turns out useful. What shipped, who uses it, and how it
 ## What's in here
 
 - [profile/README.md](profile/README.md), the account profile README
-- [projects.md](projects.md), every public project labeled serious or experiment
 - Default community health files used across repos in this account:
   - [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
   - [CONTRIBUTING.md](CONTRIBUTING.md)
@@ -20,4 +19,4 @@ What counts here is what turns out useful. What shipped, who uses it, and how it
 
 1. When an agent writes something that goes out, I label it and check the parts that matter.
 2. Slop is work that costs the reader more effort than it cost to produce. I don't send that.
-3. Serious projects and experiments both live here. Each public project is labeled in [projects.md](projects.md).
+3. Serious projects and experiments both live here.
